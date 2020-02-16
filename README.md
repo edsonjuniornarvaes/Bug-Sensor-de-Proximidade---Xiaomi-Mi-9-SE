@@ -1,4 +1,4 @@
-*Bug no sensor de proximidade:*
+#Bug no sensor de proximidade:#
 
 Na Miui 11:
 
