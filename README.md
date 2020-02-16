@@ -14,4 +14,4 @@ Na Miui 11:
 
 > 11.Proximity sensor
 
-* Se a tela apaga facilmente é porque a sensibilidade do sensor está alta, então você diminui, caso contrário tente aumentar a sensibilidade. A escolha do valor é empírico 😅*
+* Se a tela apaga facilmente é porque a sensibilidade do sensor está alta, então você diminui, caso contrário tente aumentar a sensibilidade. A escolha do valor é empírico 😅
